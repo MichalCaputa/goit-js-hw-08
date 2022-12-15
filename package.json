@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michalcaputa/goit-js-hw-08"
+    "url": "git+https://github.com/michalcaputa/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "Michał Caputa <taki_sobie@interia.pl>",
+  "author": "Michał Caputa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/michalcaputa/goit-js-hw-08/issues"
